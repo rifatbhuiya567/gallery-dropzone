@@ -133,7 +133,7 @@
                                 </div>
                                 {{-- End copy --}}
                                 <div class="text-center mt-2">
-                                    <button class="btn btn-primary w-50" type="submit">Submit message</button>
+                                    <button class="btn btn-primary w-50" type="submit">Submit</button>
                                 </div>
                             </form>
                         </div>
